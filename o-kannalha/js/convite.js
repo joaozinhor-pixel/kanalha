@@ -1,5 +1,5 @@
 // ===== EDITE AQUI =====
-const VIDEO='kanalha';     // ex.: 'video.mp4' (arquivo na mesma pasta). Deixe '' para não mostrar.
+const VIDEO='kanalha.mp4';     // ex.: 'video.mp4' (arquivo na mesma pasta). Deixe '' para não mostrar.
 const PLAYLIST='https://open.spotify.com/playlist/0fzSee7qyCDksAfV0kfRqI?si=4ddb5b44bd8f4c58';  // link da playlist (Spotify, YouTube...). Deixe '' para não mostrar.
 // ======================
 const sim=document.getElementById('sim'),nao=document.getElementById('nao'),tela=document.getElementById('tela');
